@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.ts"],"names":[],"mappings":";AAAA,IAAM,EAAW,wBACjB,SAAS,KAAK,mBAAmB,aAAa","file":"20220210.e8ea91c4.js","sourceRoot":"..","sourcesContent":["const s: string ='Привет, пользователь!';\ndocument.body.insertAdjacentHTML('afterbegin',s);"]}
